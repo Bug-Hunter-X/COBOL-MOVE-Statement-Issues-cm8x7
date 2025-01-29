@@ -1,0 +1,1 @@
+This example demonstrates a common COBOL error related to the MOVE statement.  When moving data between fields, it's crucial to ensure the receiving field has enough space and compatible data types.  Failure to do so can result in data truncation, unexpected results, or runtime errors.
